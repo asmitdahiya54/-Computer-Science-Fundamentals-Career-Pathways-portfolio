@@ -79,3 +79,6 @@ footer {
     border-radius: 10px; /* Smooth corners */
     margin-bottom: 10px;
 }
+h2 {
+    font-size: 28px; /* Make section headings bigger */
+}
