@@ -8,5 +8,14 @@
 ## How to Run
 Open `index.html` in a browser.
 
-## Author
-Asmit
+## Features
+- Responsive design
+- Interactive elements
+- Showcase of multiple projects
+
+## How to Use
+1. Clone the repository
+2. Open `index.html` in a web browser
+3. Explore the projects section
+
+BY : ASMIT
