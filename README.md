@@ -17,5 +17,19 @@ Open `index.html` in a browser.
 1. Clone the repository
 2. Open `index.html` in a web browser
 3. Explore the projects section
+   ## Projects
+
+### Project 1 — Portfolio Website
+A static webpage showcasing my skills and projects.
+![Portfolio Screenshot](images/project1.png)
+
+### Project 2 — Food Delivery App
+A responsive web application.
+![Food App Screenshot](images/project2.png)
+
+### Project 3 — Quiz Game
+A simple interactive quiz game.
+![Quiz Game Screenshot](images/project3.png)
+
 
 BY : ASMIT
